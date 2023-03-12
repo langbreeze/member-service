@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "L8kE5o84G/dgEfMw6UZxQX5/DSEFVPNlqXDhRK8aNww=",
+  "Source": "member-service",
+  "BasePath": "_content/member-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
